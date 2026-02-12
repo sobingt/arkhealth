@@ -82,7 +82,7 @@ timestamps
 ## 8. Deployment
 
 Docker  
-AWS / GCP / Azure  
+AWS
 GitHub Actions  
 
 ---
@@ -92,11 +92,3 @@ GitHub Actions
 Unit tests  
 Integration tests  
 Acceptance tests  
-
----
-
-## 10. Next Steps
-
-Create tasks.md  
-Build UI stubs  
-Implement matching engine  
